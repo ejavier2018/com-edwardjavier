@@ -1,2 +1,2 @@
-# com-edwardjavier
+# Edward Javier
 An experiment
